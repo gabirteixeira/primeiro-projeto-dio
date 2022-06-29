@@ -1,0 +1,19 @@
+#comandos importantes
+
+git add .
+git status
+git commit -m  (sempre usar uma justificativa bem explicativa)
+git push para atualizar o repositório
+git pull para puxar o que tem no repositório do github
+ 
+pasta ssh:
+/c/users/ggabr/.ssh
+
+pwd (para mostrar o caminho até a pasta que eu estou)
+ctrl + l (limpar linhas)
+dir (para mostrar todos os diretótios na pasta aberta)
+cd 
+tab (ajuda a completar)
+echo (redirecionador de fluxo)
+del + nomedapasta (deletar tudo dentro da pasta, mas não a pasta)
+rmdir + nomedapasta /s /q (remove repositório com todos os arquivos dentro)
